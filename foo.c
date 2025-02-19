@@ -2,6 +2,8 @@
 
 int main() {
     // print a msg
-	printf("yo");
+	printf("yo\n");
+
+	printf("yo2\n");
 	return 0;
 }
